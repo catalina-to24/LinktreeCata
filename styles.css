@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: #fff;
+    color: #e0e0e0;
 }
 
 .linktree-container {
@@ -32,7 +32,7 @@ body {
     font-size: 26px;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #fff;
+    color: #e0e0e0;
 }
 
 p {
